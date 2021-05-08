@@ -1,4 +1,4 @@
 # Console-Application
-SharpDevelop 5.1
+Visual Studio 2019
 
 School activity
