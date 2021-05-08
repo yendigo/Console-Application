@@ -1,0 +1,16 @@
+C:\Users\SANGGALANG\source\repos\MachineProblem3\MachineProblem3\bin\Debug\net5.0\MachineProblem3.exe
+C:\Users\SANGGALANG\source\repos\MachineProblem3\MachineProblem3\bin\Debug\net5.0\MachineProblem3.deps.json
+C:\Users\SANGGALANG\source\repos\MachineProblem3\MachineProblem3\bin\Debug\net5.0\MachineProblem3.runtimeconfig.json
+C:\Users\SANGGALANG\source\repos\MachineProblem3\MachineProblem3\bin\Debug\net5.0\MachineProblem3.runtimeconfig.dev.json
+C:\Users\SANGGALANG\source\repos\MachineProblem3\MachineProblem3\bin\Debug\net5.0\MachineProblem3.dll
+C:\Users\SANGGALANG\source\repos\MachineProblem3\MachineProblem3\bin\Debug\net5.0\ref\MachineProblem3.dll
+C:\Users\SANGGALANG\source\repos\MachineProblem3\MachineProblem3\bin\Debug\net5.0\MachineProblem3.pdb
+C:\Users\SANGGALANG\source\repos\MachineProblem3\MachineProblem3\obj\Debug\net5.0\MachineProblem3.csprojAssemblyReference.cache
+C:\Users\SANGGALANG\source\repos\MachineProblem3\MachineProblem3\obj\Debug\net5.0\MachineProblem3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANGGALANG\source\repos\MachineProblem3\MachineProblem3\obj\Debug\net5.0\MachineProblem3.AssemblyInfoInputs.cache
+C:\Users\SANGGALANG\source\repos\MachineProblem3\MachineProblem3\obj\Debug\net5.0\MachineProblem3.AssemblyInfo.cs
+C:\Users\SANGGALANG\source\repos\MachineProblem3\MachineProblem3\obj\Debug\net5.0\MachineProblem3.csproj.CoreCompileInputs.cache
+C:\Users\SANGGALANG\source\repos\MachineProblem3\MachineProblem3\obj\Debug\net5.0\MachineProblem3.dll
+C:\Users\SANGGALANG\source\repos\MachineProblem3\MachineProblem3\obj\Debug\net5.0\ref\MachineProblem3.dll
+C:\Users\SANGGALANG\source\repos\MachineProblem3\MachineProblem3\obj\Debug\net5.0\MachineProblem3.pdb
+C:\Users\SANGGALANG\source\repos\MachineProblem3\MachineProblem3\obj\Debug\net5.0\MachineProblem3.genruntimeconfig.cache
